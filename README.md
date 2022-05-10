@@ -1,5 +1,5 @@
 # eshop-suggestions
-Suggestions for game info pages I should show and read out on camera in the Wii U or 3DS eShops when I do my video tour series for them. Submissions close February 15, 2023. Please check the rules before submitting.
+Suggestions for game or DLC info pages (or other pages, if you want to see something specific that I might not cover) I should show and read out on camera in the Wii U or 3DS eShops when I do my video tour series for them. Submissions close February 15, 2023. Please check the rules before submitting.
 
 Neither this repo nor I (Drew Naylor) are associated with Nintendo, and Nintendo does not approve of this repo. Wii U, 3DS, eShop (I'd assume, because it seems unique enough of a name), and any other similar words or phrases are property of Nintendo. Anything else (such as game names) belongs to its proper copyright holders.
 
