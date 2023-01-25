@@ -14,4 +14,8 @@ Rules:
 8. No spam
 
 Current planned list:
-(please note, I don't know what the for-sure list will be yet, so I can't put anything here for now)
+(please note, this is just games that have been suggested; I have other ideas written down separately)
+Wii U:
+- Affordable Space Adventures (thanks, @Htbaa@fosstodon.org!)
+
+3DS:
