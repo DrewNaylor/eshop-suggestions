@@ -16,6 +16,12 @@ Rules:
 Current planned list:
 (please note, this is just games that have been suggested; I have other ideas written down separately)
 Wii U:
-- Affordable Space Adventures (thanks, @Htbaa@fosstodon.org!)
+- Affordable Space Adventures (thanks, Christaan Kras!)
+- Chew Man Fu ("hidden gem, with unique gameplay"; Turbografx 16/VC; thanks, Arindam!)
+- Kirby and the Rainbow Paintbrush (thanks, Arindam!)
+- Swords and Soldiers ("works very well with the stylus and gamepad"; thanks, Arindam!)
 
 3DS:
+- Nintendo Pocket Football Club (thanks, Christaan Kras!)
+- River City Tokyo Rumble ("completely new River City game"; thanks, Humbird0 Fandom!)
+- Dragon Quest 8 ("lets you save anywhere" like Dream Team; thanks, Humbird0 Fandom!)
