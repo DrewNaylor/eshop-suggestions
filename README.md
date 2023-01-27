@@ -20,6 +20,8 @@ Wii U:
 - Chew Man Fu ("hidden gem, with unique gameplay"; Turbografx 16/VC; thanks, Arindam!)
 - Kirby and the Rainbow Paintbrush (thanks, Arindam!)
 - Swords and Soldiers ("works very well with the stylus and gamepad"; thanks, Arindam!)
+- Unepic (thanks, Arindam!)
+- Ziggurat (thanks, Arindam!)
 
 3DS:
 - Nintendo Pocket Football Club (thanks, Christaan Kras!)
