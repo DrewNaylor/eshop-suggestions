@@ -16,12 +16,18 @@ Rules:
 Current planned list:
 (please note, this is just games that have been suggested; I have other ideas written down separately)
 Wii U:
-- Affordable Space Adventures (thanks, Christaan Kras!)
+- Affordable Space Adventures (thanks, Christaan Kras and scribe!; "best with 3 people" - scribe)
 - Chew Man Fu ("hidden gem, with unique gameplay"; Turbografx 16/VC; thanks, Arindam!)
 - Kirby and the Rainbow Paintbrush (thanks, Arindam!)
 - Swords and Soldiers ("works very well with the stylus and gamepad"; thanks, Arindam!)
 - Unepic (thanks, Arindam!)
 - Ziggurat (thanks, Arindam!)
+- Race the Sun (thanks, scribe!)
+- NES Remix (thanks, scribe!)
+- Tank! Tank! Tank! (may not be available anymore; thanks, scribe!)
+- Mario Kart (assuming 8, because it's in a Wii U list; thanks, scribe!)
+- Xenoblade X (on scribe's playlist, but was going to show it anyway; thanks, scribe!)
+- "all the Zelda's" (on scribe's playlist, but may as well go through them; thanks, scribe!)
 
 3DS:
 - Nintendo Pocket Football Club (thanks, Christaan Kras!)
