@@ -33,3 +33,4 @@ Wii U:
 - Nintendo Pocket Football Club (thanks, Christaan Kras!)
 - River City Tokyo Rumble ("completely new River City game"; thanks, Humbird0 Fandom!)
 - Dragon Quest 8 ("lets you save anywhere" like Dream Team; thanks, Humbird0 Fandom!)
+- Silver Falls - Deathly Delusion Destroyers/Silver Falls - Ruby River (the final 3DS exclusives to be published on the eShop as Nintendo pulled a miracle and worked with Jerrel Dulay to allow them to be launched with an update planned for a few weeks later to fix a bug in the engine Nintendo previously rejected the games for; they're part of the same package and cost $16.99 US [only going to be available in the US because NoE couldn't help keep the door open long enough, and I don't know for sure about Japan]; check out this video for full details [note: has birds making noise in the background]: https://m.youtube.com/watch?v=H3Wjvaar6hc ; I placed this here myself as it's very cool to look at the last eShop game)
